@@ -1,4 +1,8 @@
-# emoji-picker-react
+# emoji-picker-preact
+
+This is a fork of [emoji-picker-react](https://github.com/ealush/emoji-picker-react) to support Preact.
+
+## ORIGINAL README BELOW
 
 [Live Demo](https://stackblitz.com/edit/emoji-picker-react?file=index.js)
 

@@ -1,9 +1,9 @@
 {
-  "name": "emoji-picker-react",
+  "name": "emoji-picker-preact",
   "version": "3.6.0",
-  "description": "Emoji picker component for react applications",
+  "description": "Fork of emoji-picker-react to work with preact",
   "main": "dist/index.js",
-  "typings": "emoji-picker-react.d.ts",
+  "typings": "emoji-picker-preact.d.ts",
   "scripts": {
     "storybook": "start-storybook -p 6006",
     "build": "webpack --config ./webpack.config.js",
@@ -12,16 +12,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ealush/emoji-picker-react.git"
+    "url": "git+https://github.com/arnu515/emoji-picker-preact.git"
   },
   "keywords": [
     "emoji-picker",
     "react"
   ],
-  "author": "ealush",
+  "author": "arnu515",
   "license": "unlicense",
   "bugs": {
-    "url": "https://github.com/ealush/emoji-picker-react/issues"
+    "url": "https://github.com/arnu515/emoji-picker-preact/issues"
   },
   "husky": {
     "hooks": {
@@ -32,7 +32,7 @@
     "arrowParens": "avoid",
     "singleQuote": true
   },
-  "homepage": "https://github.com/ealush/emoji-picker-react#readme",
+  "homepage": "https://github.com/arnu515/emoji-picker-preact#readme",
   "devDependencies": {
     "@babel/core": "^7.6.0",
     "@babel/plugin-transform-runtime": "^7.6.0",
